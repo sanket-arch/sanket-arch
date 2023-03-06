@@ -1,3 +1,4 @@
+[![MasterHead](https://media.licdn.com/dms/image/C4E16AQGOUqAIfCEeKA/profile-displaybackgroundimage-shrink_350_1400/0/1644370627561?e=1683763200&v=beta&t=swtaazTR_QqF9Bpc_eVmAQEnMfjwbNMbXfRg-SFMXDg)]
 <h1 align="center">Hi 👋, I'm sanket kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -28,4 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket-arch&show_icons=true&locale=en&layout=compact" alt="sanket-arch" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket-arch&show_icons=true&locale=en" alt="sanket-arch" /></p>
-
