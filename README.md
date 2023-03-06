@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E16AQGOUqAIfCEeKA/profile-displaybackgroundimage-shrink_350_1400/0/1644370627561?e=1683763200&v=beta&t=swtaazTR_QqF9Bpc_eVmAQEnMfjwbNMbXfRg-SFMXDg)]
+![MasterHead](https://www.canva.com/design/DAFcaFTOgZg/lB398V7sEn0DJreN1d4wTw/edit?utm_content=DAFcaFTOgZg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm sanket kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
