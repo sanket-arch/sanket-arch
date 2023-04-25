@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Note Keeping](https://note-app-ten-lake.vercel.app/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **REACTJS, SAAS**
 
