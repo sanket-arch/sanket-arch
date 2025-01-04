@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **REACTJS, SAAS**
+- 💬 Ask me about **REACTJS, Spring Boot**
 
 - 📫 How to reach me **rajkumarsanket4@gmail.com**
 
