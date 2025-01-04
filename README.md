@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <a href="https://twitter.com/sanketk_08" target="blank"><img src="https://img.shields.io/twitter/follow/sanketk_08?logo=twitter&style=for-the-badge" alt="sanketk_08" /></a> </p>
 
-- 🔭 I’m currently working on [hire-me](https://hire-me-tau.vercel.app/)
+- 🔭 I’m currently working on [Campus Connect](https://github.com/sanket-arch/campuslink-backend)
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **REACTJS, SAAS**
 
